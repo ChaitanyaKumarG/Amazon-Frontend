@@ -1,4 +1,4 @@
 # Amazon-Frontend
-Complete frontend of Amazon E-commerce website.
+Frontend of Amazon E-commerce website_; Used Languages : HTML, CSS, BOOTSTRAP, JAVASCRIPT.
 
-Used Languages : HTML, CSS, BOOTSTRAP, JAVASCRIPT.
+Link: https://amazonbyme.glitch.me/
